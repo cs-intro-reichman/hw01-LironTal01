@@ -8,6 +8,7 @@ public class GenThree {
 	//Gets 2 integers from command line as the range
 	int a = Integer.parseInt(args[0]);
 	int b = Integer.parseInt(args[1]);
+		
 	//Generates 3 random numbers
 	int num1 = (int)(Math.random()*(b-a+1)+a);
 	int num2 = (int)(Math.random()*(b-a+1)+a);
