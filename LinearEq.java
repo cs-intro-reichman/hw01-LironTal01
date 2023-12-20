@@ -20,7 +20,6 @@ public class LinearEq {
 	
 	//Calculate the equation and find the final value
 	x = (c - b) / x;
-	
 	//Print the reasult of the equation
 	System.out.println(" X = " + x);
 }
